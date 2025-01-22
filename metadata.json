@@ -1,0 +1,6 @@
+{
+    "name": "Smile-Coin",
+    "symbol": "SMC",
+    "description": "Example token from Solana Making a Token guide.",
+    "image": "https://raw.githubusercontent.com/AleksandrBagdasarov/sol-token/refs/heads/main/logo.png"
+}
